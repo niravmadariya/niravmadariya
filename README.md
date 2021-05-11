@@ -6,4 +6,4 @@
 - 💬 Ask me about .net/MS Azure,
 - 📫 How to reach me: niravmadariya@gmail.com
 - 😄 Pronouns: Neerav/Nirav, his/him
-- ⚡ Fun fact: I also go by the name "TokTomato" in online games, and few other places i.e. <a href="https://steamcommunity.com/id/toktomato" target="_blank">Steam</a>.
+- ⚡ Fun fact: I also go by the name "TokTomato" in online games, and few other places i.e. <a href="https://steamcommunity.com/id/toktomato">Steam</a>.

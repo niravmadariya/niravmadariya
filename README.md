@@ -1,9 +1,9 @@
-# [Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> My name is Nirav Madariya](https://niravmadariya.com/)
+# <p>Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> My name is [Nirav Madariya][Website]</p>
 [<img height="30" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />][twitter]
 [<img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][LinkedIn]
 
 - 🔭 I’m currently working on .net/MS Azure,
-- 🌱 I’m currently learning TS,
+- 🌱 I’m currently learning Sophisticated Cloud Architecture,
 - 👯 I’m looking to collaborate on .net/MS Azure,
 - 💬 Ask me about .net/MS Azure,
 - 📫 How to reach me: niravmadariya@gmail.com
@@ -23,5 +23,6 @@
 [linkedin]: https://www.linkedin.com/in/niravmadariya/
 [Medium]: https://medium.com/@niravmadariya
 [Facebook]: https://www.facebook.com/niravmadariya
+[Website]: https://niravmadariya.com
 
 <h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
